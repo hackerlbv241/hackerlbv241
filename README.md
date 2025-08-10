@@ -18,8 +18,8 @@ Titulaire d’un DUT Réseaux et Télécommunications (spécialité cybersécuri
 
 | Domaine              | Technologies & Outils                                         |
 |----------------------|--------------------------------------------------------------|
-| Systèmes             | Linux (Debian, Ubuntu), Windows Server                        |
-| Virtualisation       | Proxmox, VMware (en cours d’apprentissage)                   |
+| Systèmes             | Linux (Debian, Ubuntu, kali), Windows Server                        |
+| Virtualisation       | Proxmox, VMware                  |
 | Réseaux              | TCP/IP, DHCP, DNS, VLAN, VPN, routage, protocoles HTTP/HTTPS |
 | Sécurité             | Analyse SOC, audit, pentesting, ISO 27001, EBIOS RM           |
 | Outils de sécurité   | Suricata, Snort, OpenVAS, Wazuh, Zabbix, ntopng               |
