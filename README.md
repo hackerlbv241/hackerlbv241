@@ -1,4 +1,4 @@
-# Bonjour, je suis Intel 👋
+# Bonjour, je suis Jerry MOTSOU 👋
 
 Étudiant en **3e année de BUT Réseaux & Télécommunications – Parcours Cybersécurité**  
 à l’Université Sorbonne Paris Nord (IUT de Villetaneuse), je suis passionné par la **sécurité informatique**, les **réseaux**, l’**administration système** et la **cyberdéfense**.
