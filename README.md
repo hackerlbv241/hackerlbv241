@@ -1,69 +1,69 @@
-# Bonjour, je suis Jerry MOTSOU 👋
+# Bonjour, je suis Intel 👋
 
-Je suis étudiant en 1ère année du cycle ingénieur cybersécurité à l’EPITA, passionné par la sécurité informatique, les réseaux et les systèmes.  
-Titulaire d’un DUT Réseaux et Télécommunications (spécialité cybersécurité) de l’Université Sorbonne Paris Nord (IUT de Villetaneuse), j’ai acquis une solide base technique et pratique à travers mes études et mes stages.  
+Étudiant en **3e année de BUT Réseaux & Télécommunications – Parcours Cybersécurité**  
+à l’Université Sorbonne Paris Nord (IUT de Villetaneuse), je suis passionné par la **sécurité informatique**, les **réseaux**, l’**administration système** et la **cyberdéfense**.
 
----
-
-## 🚀 À propos de moi  
-
-- Actuellement en stage analyste SOC et audit cybersécurité dans une banque, où je travaille sur l’analyse des risques, la gouvernance, la conformité (notamment ISO 27001), ainsi que sur la sensibilisation à la cybersécurité.  
-- Expérience préalable en administration systèmes et réseaux (gestion de Proxmox, Linux, Windows, support, incidents).  
-- Intérêt marqué pour la sécurité offensive (pentesting), les infrastructures cloud, et les technologies d’automatisation et de monitoring.  
-- Curieux, rigoureux et autonome, je cherche toujours à apprendre en pratique et à relever de nouveaux défis.  
+Titulaire d’un DUT Réseaux & Télécommunications (spécialité cybersécurité), j’ai acquis une solide base technique grâce à mes projets, mes SAÉ et mes expériences en entreprise.
 
 ---
 
-## 🛠️ Compétences techniques  
+## 🚀 À propos de moi
 
-| Domaine              | Technologies & Outils                                         |
-|----------------------|--------------------------------------------------------------|
-| Systèmes             | Linux (Debian, Ubuntu, kali), Windows Server                        |
-| Virtualisation       | Proxmox, VMware                  |
-| Réseaux              | TCP/IP, DHCP, DNS, VLAN, VPN, routage, protocoles HTTP/HTTPS |
-| Sécurité             | Analyse SOC, audit, pentesting, ISO 27001, EBIOS RM           |
-| Outils de sécurité   | Suricata, Snort, OpenVAS, Wazuh, Zabbix, ntopng               |
-| Programmation & Scripting | Python, Bash, Shell                                        |
-| Cloud & DevOps       | Notions AWS, automatisation, monitoring, CI/CD                |
-| Bases de données     | MongoDB, PostgreSQL (notions)                                 |
-| Gestion de projet    | Méthodes agiles, Git, Jenkins                                 |
+- **Stage Analyste SOC & Audit Cybersécurité** dans une banque : analyse des risques, gouvernance SSI, conformité (**ISO 27001**), sensibilisation sécurité.  
+- Expérience en **administration systèmes et réseaux** : Linux/Windows, support, gestion des incidents, virtualisation.  
+- Fort intérêt pour la **sécurité offensive (pentesting)**, la **supervision SOC**, la **réponse à incident** et les infrastructures sécurisées.  
+- Curieux, rigoureux et autonome, j’aime apprendre par la pratique et relever des défis techniques.
 
 ---
 
-## 💼 Expériences marquantes  
+## 🛠️ Compétences techniques
 
-- **Stage Analyste SOC & Audit Cybersécurité** – Banque (2025)  
-  Analyse des risques, mise en place de plans d’action, sensibilisation, préparation à la certification ISO 27001, utilisation d’outils comme Suricata, Snort, OpenVAS, Wazuh.  
-
-- **Stage Administrateur Systèmes et Réseaux** (2025)  
-  Gestion d’infrastructures virtualisées sous Proxmox, support utilisateur, maintenance et sécurisation des environnements Windows et Linux, gestion des incidents.  
+| Domaine | Technologies & Outils |
+|--------|------------------------|
+| **Systèmes** | Linux (Debian, Ubuntu, Kali), Windows Server |
+| **Virtualisation** | Proxmox, VMware, Hyper-V |
+| **Réseaux** | TCP/IP, DHCP, DNS, VLAN, DMZ, routage, HTTP/HTTPS |
+| **VPN & Sécurité réseau** | WireGuard, IPsec, pfSense, firewalling |
+| **Supervision & SOC** | SIEM (notions), centralisation logs (ELK/Graylog), monitoring (Zabbix, Netdata) |
+| **IDS/IPS** | Snort, Suricata, ntopng |
+| **Audit & Pentesting** | Nmap, Nessus/OpenVAS, Metasploit, analyse de vulnérabilités, reporting |
+| **Réponse à incident** | Investigation, forensic (notions), remédiation, gestion de crise |
+| **Normes & Risques SSI** | ISO 27001, EBIOS RM, politiques de sécurité |
+| **WiFi avancé** | WPA2/WPA3, 802.1X, RADIUS, sécurisation WLAN |
+| **Programmation & Scripting** | Python, Bash, Shell |
+| **Cloud & DevOps** | Notions AWS, automatisation, CI/CD |
+| **Gestion de projet** | Agile, cycle en V, Git/GitHub, Gantt |
 
 ---
 
-## 📚 Projets personnels  
+## 💼 Expériences marquantes
 
-- **Développement d’outils de monitoring et d’automatisation** en Python et Bash.  
-- Contribution à des projets de pentesting sur des machines virtuelles avec Nessus.  
-- Création d’applications Flutter pour la gestion d’événements et de tickets, apps de chat, jeux.  
+### **Stage Analyste SOC & Audit Cybersécurité** – Banque (2025)
+- Analyse des risques et plans d’action SSI  
+- Participation à la préparation ISO 27001  
+- Utilisation d’outils : Suricata, Snort, OpenVAS, Wazuh  
+
+### **Stage Administrateur Systèmes & Réseaux** (2025)
+- Gestion d’infrastructures virtualisées sous Proxmox  
+- Maintenance et sécurisation Windows/Linux  
+- Support utilisateur et gestion des incidents  
 
 ---
 
-## 📫 Contact  
+## 📚 Projets & Réalisations
 
-- Email : jerry.motsou-boutoto@epita.fr ou  motsoujerry@gmail.com 
+- Développement d’outils de **monitoring** et d’automatisation (Python/Bash)  
+- Projets de **pentesting** et analyse de vulnérabilités (Nessus, Metasploit)  
+- Développement d’applications (Flutter) : billetterie QR, chat, jeux  
+
+---
+
+## 📫 Contact
+
+- Email : **motsoujerry@gmail.com**  
 - LinkedIn : https://www.linkedin.com/in/jerry-motsou-558704239/
 
 ---
 
 Merci de votre visite sur mon profil GitHub !  
-N’hésitez pas à parcourir mes projets et à me contacter.
-
----
-
-— Jerry MOTSOU 
-
-
-<!---
-hackerlbv241/hackerlbv241 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+N’hésitez pas à parcourir mes projets ou à me contacter.
