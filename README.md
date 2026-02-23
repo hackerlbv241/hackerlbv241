@@ -3,7 +3,7 @@
 Étudiant en **3e année de BUT Réseaux & Télécommunications – Parcours Cybersécurité**  
 à l’Université Sorbonne Paris Nord (IUT de Villetaneuse), je suis passionné par la **sécurité informatique**, les **réseaux**, l’**administration système** et la **cyberdéfense**.
 
-Titulaire d’un DUT et d'un BUT Réseaux & Télécommunications (spécialité cybersécurité), j’ai acquis une solide base technique grâce à mes projets, mes SAÉ et mes expériences en entreprise.
+Titulaire d’un DUT et et bientot d'un BUT Réseaux & Télécommunications (spécialité cybersécurité), j’ai acquis une solide base technique grâce à mes projets, mes SAÉ et mes expériences en entreprise.
 
 ---
 
